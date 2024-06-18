@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>O anarquista</title>
          </titleStmt>
          <publicationStmt>
             <p>Publication Information</p>
@@ -19,9 +19,11 @@
    <text>
       <body>
       <pb n="1" facs="#o-anaqista-004.jpg"/>
-         <div>
-         <p>some text
-         </p>
+         <div type="narration" n="1">
+            <p>Oíronse voces de pelea entre mulleres á outra banda do camiño</p>
+         </div>
+         <div type="dialogue" n="1">
+            <sp n="1"><p>Vouche dar... Eres unha desvergoñada. Cen veces díxenche que non me aveirases a vaca no prado. O prado é meu, non é teu. Se non queres atender pol-as boas, has de atender pol-as malas, ¡mala veciña!</p></sp>            
          </div>
       </body>
    </text>

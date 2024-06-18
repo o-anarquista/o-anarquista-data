@@ -19,6 +19,7 @@
    <text>
       <body>
       <pb n="1" facs="#o-anaqista-004.jpg"/>
+      <div type="part" n="1">
          <div type="narration" n="1">
             <p>Oíronse voces de pelea entre mulleres á outra banda do camiño</p>
          </div>
@@ -50,8 +51,20 @@
          <div type="narration" n="3">
             <p>Estrelecía. Víñase a noite solor da aldea de San Xián de Lanzós. Negreaban os mesmos arvoredos. As casas somellaban afondarse, acollerse mais â terra, agarimadas pol-as sômas. Saían xa os fumes azús dos fogares, ladraban todol-os cas e xa se non ouvía ningunha voz, ningún cantar na lonxanía. A terra encomezaba á durmir.</p>
             <p>Sômente unha esquila tintineaba pol-o camiño abaixo. Era a vaca da "Anarquista" camiñando paseniñamente, diante da súa dona que traía os ollos vermellos e o andar resolto.</p>
-            <p>Cando emparellóu coa xente de Antón da Chousa houbo un <sp n="2">Boas noites nos dé Dios e mail-a Vixe"</sp> e unha frase de Antón</p>
+            <p>Cando emparellóu coa xente de Antón da Chousa houbo un "Boas noites nos dé Dios e mail-a Vixe" e unha frase de Antón â "Anarquista".</p>
          </div>
+         <div type="dialogue" n="4">
+            <sp n="3"><p>—E logo, ¿houbo pleito?</p></sp>
+         <p>A "Anarquista", sen deixar de andar, repuso c'unha carraxe resinada:</p>
+      <pb n="3" facs="#o-anarquista-006.jpg"/>
+            <sp n="2"><p>—Toda a vida dos pobres é un pleito... Vaia; boas noites nos dé Dios.</p></sp>
+         </div>
+         <div type="narration" n="4">
+            <p>E foise picándolle â vaca. O fato que quedaba atrás comentóu un instante o fraca que estaba a vaca da "Anarquista", o mal xenio de Rosa dos Muíños e a mala sorte d'aquéla. Non deixaban de estar matizadas estas lástemas pol-a fruición segreda de se sentiren á cuberto d'elas. O señor Antón romatóu os comentarios de conmiseración co'estas verbas:</p>
+            <sp n="3"><p>—Cando un home perde a cabeza, bótase á perder él e mais toda a sua caste.</p></sp>
+         </div>
+
+        </div> 
       </body>
    </text>
 </TEI>

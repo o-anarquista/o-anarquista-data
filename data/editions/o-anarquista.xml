@@ -18,7 +18,11 @@
    </teiHeader>
    <text>
       <body>
-         <p>Some text here.</p>
+      <pb n="1" facs="#o-anaqista-004.jpg"/>
+         <div>
+         <p>some text
+         </p>
+         </div>
       </body>
    </text>
 </TEI>

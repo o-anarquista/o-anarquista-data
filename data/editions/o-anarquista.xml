@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -18,70 +17,107 @@
    </teiHeader>
    <text>
       <body>
-      <pb n="1" facs="#o-anaqista-004.jpg"/>
-      <div type="part" n="1">
-         <div type="narration" n="1">
-            <p>Oíronse voces de pelea entre mulleres á outra banda do camiño</p>
+         <pb n="1" facs="#o-anaqista-004.jpg"/>
+         <div type="part" n="1">
+            <div type="narration" n="1">
+               <p>Oíronse voces de pelea entre mulleres á outra banda do camiño</p>
+            </div>
+            <div type="dialogue" n="1">
+               <sp n="1">
+                  <p>—Vouche dar... Eres unha desvergoñada. Cen veces díxenche que non me aveirases a vaca no prado. O prado é meu, non é teu. Se non queres atender pol-as boas, has de atender pol-as malas, ¡mala veciña!</p>
+               </sp>
+               <sp n="2">
+                  <p>—Señora Rosa... —oíase outra voz con acento homilde.</p>
+               </sp>
+               <sp n="1">
+                  <p>—Non me veñas con verbas. Boa lercha eres. Xa che dixen e digo que non me trepel-o prado. Se a vaca fuxe ti debes er conta d'ela, que os animais non tiran para onde os non levan. Has de te ver envolta en xusticia, así Dios me salve. Eso é de xentes honradas.</p>
+               </sp>
+               <sp n="2">
+                  <p>—Señora Rosa...</p>
+               </sp>
+               <sp n="1">
+                  <p>—Ben tés á quen sair, disgraciada.</p>
+               </sp>
+               <sp n="2">
+                  <p>—¡Eso non, señora Rosa, eso non! Val mais o meu sangue que todol-os seus prados.</p>
+               </sp>
+            </div>
+            <div type="narration" n="2">
+               <p>A voz homilde perdeu toda a sua homildanza.</p>
+               <p>Acedouse a polémica. Antón da Chousa, que vo-</p>
+               <pb n="2" facs="#o-anarquista-005.jpg"/>
+               <p>taba pol-o camiño cós xornaleiros da sua leira, terciou de lonxe:</p>
+            </div>
+            <div type="dialogue" n="2">
+               <sp n="3">
+                  <p>—Ei ¡Rosa, Marica! Xa estades rifando?... Andade para a casa que vaise facer de noite</p>
+               </sp>
+               <p>E volvéndose aos da compaña, aclaróu:</p>
+               <sp n="3">
+                  <p>—Rosa dos Muíños, que estalle votando a plática á "Anarquista".</p>
+               </sp>
+               <sp n="4">
+                  <p>—Sempre na mesma.</p>
+               </sp>
+               <sp n="5">
+                  <p>—Non teñen arreglo.</p>
+               </sp>
+               <sp n="3">
+                  <p>—O non poden ter —sentenciou Antón—. A pobreza non se arregla coa folganza. Se a "Anarquista" non ten onde pastal-a vaca, ¿qué vai facer? Debéramos de lle dar entre todos un cacho de regadío, na mentres senón levanta.</p>
+               </sp>
+               <sp n="6">
+                  <p>Había que oir o señor Andrés</p>
+               </sp>
+               <sp n="7">
+                  <p>Había... —rezongou con malicia unha rapaza</p>
+               </sp>
+               <sp n="3">
+                  <p>Bah! —terciou Antón— algunha vez halle de pasar a tema ao señor Andrés</p>
+               </sp>
+            </div>
+            <div type="narration" n="3">
+               <p>Estrelecía. Víñase a noite solor da aldea de San Xián de Lanzós. Negreaban os mesmos arvoredos. As casas somellaban afondarse, acollerse mais â terra, agarimadas pol-as sômas. Saían xa os fumes azús dos fogares, ladraban todol-os cas e xa se non ouvía ningunha voz, ningún cantar na lonxanía. A terra encomezaba á durmir.</p>
+               <p>Sômente unha esquila tintineaba pol-o camiño abaixo. Era a vaca da "Anarquista" camiñando paseniñamente, diante da súa dona que traía os ollos vermellos e o andar resolto.</p>
+               <p>Cando emparellóu coa xente de Antón da Chousa houbo un "Boas noites nos dé Dios e mail-a Vixe" e unha frase de Antón â "Anarquista".</p>
+            </div>
+            <div type="dialogue" n="4">
+               <sp n="3">
+                  <p>—E logo, ¿houbo pleito?</p>
+               </sp>
+               <p>A "Anarquista", sen deixar de andar, repuso c'unha carraxe resinada:</p>
+               <pb n="3" facs="#o-anarquista-006.jpg"/>
+               <sp n="2">
+                  <p>—Toda a vida dos pobres é un pleito... Vaia; boas noites nos dé Dios.</p>
+               </sp>
+            </div>
+            <div type="narration" n="4">
+               <p>E foise picándolle â vaca. O fato que quedaba atrás comentóu un instante o fraca que estaba a vaca da "Anarquista", o mal xenio de Rosa dos Muíños e a mala sorte d'aquéla. Non deixaban de estar matizadas estas lástemas pol-a fruición segreda de se sentiren á cuberto d'elas. O señor Antón romatóu os comentarios de conmiseración co'estas verbas:</p>
+               <sp n="3">
+                  <p>—Cando un home perde a cabeza, bótase á perder él e mais toda a sua caste.</p>
+               </sp>
+            </div>
          </div>
-         <div type="dialogue" n="1">
-            <sp n="1"><p>—Vouche dar... Eres unha desvergoñada. Cen veces díxenche que non me aveirases a vaca no prado. O prado é meu, non é teu. Se non queres atender pol-as boas, has de atender pol-as malas, ¡mala veciña!</p></sp>            
-            <sp n="2"><p>—Señora Rosa... —oíase outra voz con acento homilde.</p></sp>
-            <sp n="1"><p>—Non me veñas con verbas. Boa lercha eres. Xa che dixen e digo que non me trepel-o prado. Se a vaca fuxe ti debes er conta d'ela, que os animais non tiran para onde os non levan. Has de te ver envolta en xusticia, así Dios me salve. Eso é de xentes honradas.</p></sp>
-            <sp n="2"><p>—Señora Rosa...</p></sp>
-            <sp n="1"><p>—Ben tés á quen sair, disgraciada.</p></sp>
-            <sp n="2"><p>—¡Eso non, señora Rosa, eso non! Val mais o meu sangue que todol-os seus prados.</p></sp>
+         <div type="part" n="2">
+            <div type="narration" n="5">
+               <p>De todal-as persoas que convivían coa terra e os animás na insensíbre beatitude d'aquela parroquia chamada San Xián de Lanzós, sômente o cura librábase d'un alcume. O agudo senso crítico dos labregos reitifica as partidas de bautismo coa confirmación d'un alcume, pol-o xeneral exacto e propio, ainda dentro da deformación da caricatura. O nome de pila díctao o azar. O alcume dictao a personalidade do que o leva. É o seu verdadero nome.</p>
+               <p>Da outra banda d'este senso crítico que bautiza âs xentes con nomes grotescos, hai o senso da tradición —en pugna co'aquel— que perpetúa á través das xeneracións o alcume do seu proxenitor remoto.</p>
+               <p>Porque a "Anarquista" era o ser mais doce e débil de San Xian de Lanzós. Era coase unha cobardía o se meter co'ela. Se lle encomendaban os traballos mais homildes, e cando un labrego atopaba pisadas alarmantes  nas sus finca, toda a aldea c'unha unanimidade esceicional, non vacilaba en sinalar coma culpábre â "Anarquista". Era a muller mais pobra de aquel lugar. Eu víaa, dispreciada ou compadecide</p>
+               <pb n="4" facs="#o-anarquista-007.jpg"/>
+               <p>loitando, calada e bravamente pol-a sua pobre vida, e prerguntábame qué ironía incoscente tiña posto á aquela muller un alcume tan terríbre.</p>
+               <p>Espricoumo Antón. É unha historia que él contoume, n'un descanso de caza, no curso de tres cigarros, co'esa prolixidade pintoresca dos aldeás verbosos. A historia é doce, triste e irónica â vez. Intentaréi reocnstituíla e traducir a versión do meu narrador ao romance vulgar.</p>
+               <p>Pois, señor...</p>
+            </div>
          </div>
-         <div type="narration" n="2">
-            <p>A voz homilde perdeu toda a sua homildanza.</p>
-            <p>Acedouse a polémica. Antón da Chousa, que vo-</p>
-      <pb n="2" facs="#o-anarquista-005.jpg"/>
-            <p>taba pol-o camiño cós xornaleiros da sua leira, terciou de lonxe:</p>
-         </div>
-         <div type="dialogue" n="2">
-            <sp n="3"><p>—Ei ¡Rosa, Marica! Xa estades rifando?... Andade para a casa que vaise facer de noite</p></sp>
-         <p>E volvéndose aos da compaña, aclaróu:</p>
-            <sp n="3"><p>—Rosa dos Muíños, que estalle votando a plática á "Anarquista".</p></sp>
-            <sp n="4"><p>—Sempre na mesma.</p></sp>
-            <sp n="5"><p>—Non teñen arreglo.</p></sp>
-            <sp n="3"><p>—O non poden ter —sentenciou Antón—. A pobreza non se arregla coa folganza. Se a "Anarquista" non ten onde pastal-a vaca, ¿qué vai facer? Debéramos de lle dar entre todos un cacho de regadío, na mentres senón levanta.</p></sp>
-            <sp n="6"><p>Había que oir o señor Andrés</p></sp>
-            <sp n="7"><p>Había... —rezongou con malicia unha rapaza</p></sp>
-            <sp n="3"><p>Bah! —terciou Antón— algunha vez halle de pasar a tema ao señor Andrés</p></sp>            
-         </div>
-         <div type="narration" n="3">
-            <p>Estrelecía. Víñase a noite solor da aldea de San Xián de Lanzós. Negreaban os mesmos arvoredos. As casas somellaban afondarse, acollerse mais â terra, agarimadas pol-as sômas. Saían xa os fumes azús dos fogares, ladraban todol-os cas e xa se non ouvía ningunha voz, ningún cantar na lonxanía. A terra encomezaba á durmir.</p>
-            <p>Sômente unha esquila tintineaba pol-o camiño abaixo. Era a vaca da "Anarquista" camiñando paseniñamente, diante da súa dona que traía os ollos vermellos e o andar resolto.</p>
-            <p>Cando emparellóu coa xente de Antón da Chousa houbo un "Boas noites nos dé Dios e mail-a Vixe" e unha frase de Antón â "Anarquista".</p>
-         </div>
-         <div type="dialogue" n="4">
-            <sp n="3"><p>—E logo, ¿houbo pleito?</p></sp>
-         <p>A "Anarquista", sen deixar de andar, repuso c'unha carraxe resinada:</p>
-      <pb n="3" facs="#o-anarquista-006.jpg"/>
-            <sp n="2"><p>—Toda a vida dos pobres é un pleito... Vaia; boas noites nos dé Dios.</p></sp>
-         </div>
-         <div type="narration" n="4">
-            <p>E foise picándolle â vaca. O fato que quedaba atrás comentóu un instante o fraca que estaba a vaca da "Anarquista", o mal xenio de Rosa dos Muíños e a mala sorte d'aquéla. Non deixaban de estar matizadas estas lástemas pol-a fruición segreda de se sentiren á cuberto d'elas. O señor Antón romatóu os comentarios de conmiseración co'estas verbas:</p>
-            <sp n="3"><p>—Cando un home perde a cabeza, bótase á perder él e mais toda a sua caste.</p></sp>
-         </div>
-        </div> 
-        <div type="part" n="2">
-         <div type="narration" n="5">
-            <p>De todal-as persoas que convivían coa terra e os animás na insensíbre beatitude d'aquela parroquia chamada San Xián de Lanzós, sômente o cura librábase d'un alcume. O agudo senso crítico dos labregos reitifica as partidas de bautismo coa confirmación d'un alcume, pol-o xeneral exacto e propio, ainda dentro da deformación da caricatura. O nome de pila díctao o azar. O alcume dictao a personalidade do que o leva. É o seu verdadero nome.</p>
-            <p>Da outra banda d'este senso crítico que bautiza âs xentes con nomes grotescos, hai o senso da tradición —en pugna co'aquel— que perpetúa á través das xeneracións o alcume do seu proxenitor remoto.</p>
-            <p>Porque a "Anarquista" era o ser mais doce e débil de San Xian de Lanzós. Era coase unha cobardía o se meter co'ela. Se lle encomendaban os traballos mais homildes, e cando un labrego atopaba pisadas alarmantes  nas sus finca, toda a aldea c'unha unanimidade esceicional, non vacilaba en sinalar coma culpábre â "Anarquista". Era a muller mais pobra de aquel lugar. Eu víaa, dispreciada ou compadecide</p>
-      <pb n="4" facs="#o-anarquista-007.jpg"/>
-            <p>loitando, calada e bravamente pol-a sua pobre vida, e prerguntábame qué ironía incoscente tiña posto á aquela muller un alcume tan terríbre.</p>
-            <p>Espricoumo Antón. É unha historia que él contoume, n'un descanso de caza, no curso de tres cigarros, co'esa prolixidade pintoresca dos aldeás verbosos. A historia é doce, triste e irónica â vez. Intentaréi reocnstituíla e traducir a versión do meu narrador ao romance vulgar.</p>
-            <p>Pois, señor...</p>
-         </div>
-        </div>
-        <div type="part" n="3">
-         <div type="narration" n="6">
-            <p>Mariano de Vilar
-
-
-         </div>
-        </div>
-      </body>
-   </text>
-</TEI>
+         <div type="part" n="3">
+            <div type="narration" n="6">
+               <p>Mariano de Vilar era un labrego relativamente acomodado. Tiña unhas terras, tiña unhas vacacas, tiña unha filla, Marica. Inda que moitos camponeses o non acreditasen Marinao estimaba mais á Marica que as suas terras e as suas vacacs.</p>
+               <p>O cura había advertido á Mariano que a sua filla era moi lista e disposta. Mariano sostivo loitas con Marica-Antona, sua muller, para que a filla deixara os trafegos brutaes da terra pol-a escola, Mariano facíalle ver â sua muller o bon estado económico en que s'atopaban, a circunstancia de ser Marica filla úneca, "o ben que se lle daba a letra de corrido". Era lástema que non adeprendese. Marica-Antona non vía neso a posibilidade de a casar mellor. Non había certamente na aldea en quen escoller. E aos desexos do seu home respondía sempre coa mesma trécola:</p>
+               <sp n="9"><p>¿Quérela facer unha señorita? Ti estás en ti Mariano? Non tolées.</p></sp>
+               <p>Mais a muller nse non puido opoñer por moito tempo. Un día "púxose un punto". Non se aveu á quedarse na cama á troque de que un estrano lle coidase o gando. O gando era unha preciosidade. Daba groria, tiña razón. Daba pena mirala á ela,</p>
+               <pb n="5" facs="#o-anarquista-008.jpg/">
+               <p>inda que lle non importaba o seu esgotamento prematuro, porque o seu amor propio non estaba posto na sua persona, hasta o estremo de que apenas opuxo resistenza á que "aquel punto que se lle puxo" a levase nuns días a repousar para sempre do moito qu etiña trafegado, á debaixo de aquel prado de secano que tiña a herba tan medrada "que era unha lástema" e que estaba acoutado c'unhas pedras de todo él bendito. N-aquel camposanto os restos da muler de Mariano seguiron traballando a terra â sua maneira, apodrecendo pouco a pouco e mantendo un cardo, unhas margaridas e a moita herba que medraba enriba d'ela. Aquel cemiteri, coma todol-os da aldea, non era triste. Era un prado á onde iban os homes á rezar ou á descansar. A morte era alí unha tranquila necesidade, sen resistencia, da vida. A únca diferencia entre aquel cacho de terra e os demais, era que non entraba alí mais gando que o cabalo do señor cura. E por certo, que si as vacas que coidou tanto a muller de Marinao, poideran entrar alí e ulila, non comería a herba, e serían capaces de xuntar na conca dos grandes ollos bovinos azús, onde se reflexa o verde dos campos e o azul dos ceos, unhas pérolas redondas d'eses lagrimós que botan os animás cando lles furan o fociño ou os venden. Marica-Antona sería capaz de sentire no pô dos seus ósos a quentura do bajo da sua "Marela", da sua "Moura", da sua "Benfeita"...</p>
+            </div>
+         </div>   
+               </body>
+            </text>
+         </TEI>

@@ -14,6 +14,7 @@
             <p>Information about the source</p>
          </sourceDesc>
       </fileDesc>
+         
    </teiHeader>
    <text>
       <body>
@@ -74,7 +75,7 @@
                <sp n="10"><p>—Non quero que traballes como unha besta. prefiro que adeprendas —díxolle Marinao â sua filla, cando esta facía os imposibres por sustituire â sua nai no traballo.</p></sp>
                <p>E Marica deixou a terra para poder ir â escola e</p>
          <pb n="6" facs="#o-anarquista-010.jpg"/>
-               <p>â "pasantía". Era na aldeao que se di "unha princesa". A úneca faena que facía era a de ter conta do gando nos pastos, que era a labor dos nenos e dos vellos. Os nenos entreteñen as horas mortas do pasto buscando grilos e cantando; os vellos parolando con todos cantos pasan pol-as beiras; Marica cosía e leía na sua Guía del artesano</p>
+               <p>â "pasantía". Era na aldeao que se di "unha princesa". A úneca faena que facía era a de ter conta do gando nos pastos, que era a labor dos nenos e dos vellos. Os nenos entreteñen as horas mortas do pasto buscando grilos e cantando; os vellos parolando con todos cantos pasan pol-as beiras; Marica cosía e leía na sua <rs type="bibl" ref="#book_1">Guía del artesano</rs></p>
                <p>Chegóu á adeprender á bordar. Nos altares da igrexuca aleana había moitos primores das suas mans e ela foi quen bordóu aquel corazón c'unhas labaredas que lle regalaron ao bispo nunha visita pastoral as fillas de María. O cura nomeuna segredaria d'aquela confradía. Escribía todal-as cartas dos veciños para os seus parentes de América.</p>
                <p>Era unha muller disposta. Na opinión de moitos camponeses "unha notabilidade", oíndoa leer de corrido a letra manuscrita e véndoa facer aquela letra delgada e lenta con tantos rasgueos e repenicos.</p>
                <p>Cando foi maor, como a escola da aldea estivese de cote pechada e a maesa ausente, porque o local era inservíbre, puxo unha escola, unha "pasantía", que foi motivo de moitos regalos e de mantenza para a xoven escolanta e d'alguns diñeiros, ao que axuntábanse as ganancias da sua pruma, pois o de escribir cartas aos ausentes tiña xa o seu prezo —unha cadela por priego— e entraba dentro do negocio.</p>
@@ -168,7 +169,7 @@
             <div type="part" n="7">
                <p>Abriuse a tenda.</p>
                <p>"A familia élle moi novedosa", adoitaba dicir, cando viña á conto, o grave e filosófico Antón da Chousa, nun dos seus aforismos que, traducido ao lingoaxe vulgar, quería ponderare e moi dadas que son as xentes á toda modo ou novedade.</p>
-               <p>Os aforismos de Antón da Chousa, todos da sua propiedade literaria, se o non levaron â inmortabilidade como á Marco Aurelio, foi o tanto pol-o isolamento das comunicaciós en que xaz San Xián de Lanzós como por o ter conecido tarde o que esto escribe, en calidade de posíbre biógrafo.</p>
+               <p>Os aforismos de Antón da Chousa, todos da sua propiedade literaria, se o non levaron â inmortabilidade como á <rs type="person" ref="#person_1">Marco Aurelio</rs>, foi o tanto pol-o isolamento das comunicaciós en que xaz San Xián de Lanzós como por o ter conecido tarde o que esto escribe, en calidade de posíbre biógrafo.</p>
                <p>Mais se non das preeminencias literarias da Corte goza pol-o menos aquel inédito Rochefoucauld en rústica, d'unha inmortalidade poida que mais difícil</p>
          <pb n="16" facs="#o-anarquista-020.jpg"/>
                <p>de lograr que ningunha, e é aquela supervivencia na boca do pobo que recollía os alcumes lanzados â circulación  pol-o ínclito Antón e repite os seus refrás coa apostilla de "Como dicía o Sr. Antón da Chousa"; costume ésta de citar a procedencia, con que os labregos, que teñen un cabal senso conservadore da propiedade privada, diferéncianse tanto de certa parte do mundo letrado que praitica esa socialización do pensamento que algús chaman "plaxio" con censura d'abondo inxusta, xa que o que o comete exerce a obra de caridade de adoutare, de dare a quentura dos seus peitos aos fillos dos demais nesta grande incrusta da literatura onde se perderon todol-as paternidades e vívese no mais acougado estado comunista. Poida que pensando n-alguns casos de propiedade literaria ocurríuselle decir a Proudhon aquelas verbas de "a propiedade é un roubo e o propietario, etc".</p>
@@ -228,7 +229,7 @@
                   <sp n="14"><p>—Eu xa che dixen que íbaste meter nun mal negocio —asubiaba Andrés cando o seu veciño tirábase das barbas—. Ti non quixeches me facer caso...</p></sp>
          <pb n="21" facs="#o-anarquista-025.jpg"/>
                   <p>Mariano viuse perdido. Aquela multa... E voltóu á ouvir de Andrés a proposición de lle vender as existencias en condicións —¡Dios santo!— tan terribres para Andrés que éste comprometíase á nada menos qué á lle tomar todo á pagar en cinco anos, á precios de fábrica, con un 20% de quita, etcétera, etc...</p>
-                  <p>Cando Mariano decatouse de que a sua ruína era obra de Andrés valido d¡aquela rede de encomenzaba nun despacho da Porta do Sol de Madrid e se eslabonaba  hastra detrás d'un mostrador de San Xián de Lanzós, sintíu o in feliz unha solpresa que tardóu bastante en deixar lugar á unha indinación tan violenta, que fixo temer á todos pol-a razón do vello.</p>
+                  <p>Cando Mariano decatouse de que a sua ruína era obra de Andrés valido d¡aquela rede de encomenzaba nun despacho da <rs type="place" ref="#place_1">Porta do Sol de Madrid</rs> e se eslabonaba  hastra detrás d'un mostrador de San Xián de Lanzós, sintíu o in feliz unha solpresa que tardóu bastante en deixar lugar á unha indinación tan violenta, que fixo temer á todos pol-a razón do vello.</p>
                   <p>Tivo unha escena co seu adversario, na que o enchéu de insultos trémulos, aos que repsondía o outro insinuando o dilema: ou traspaso ou ruína. Mariano non podía falar. Os beízos tremíanlle coma espadelas. Erguéu o pau e gindouno con toda forza enriba de Andrés. O pau deu un pulo e caéu aos pés do seu enemigo. Aquela tarde un ataque puxo en perigo a vida do vello.</p>
                   <p>A aldea xa non facía chístes sobre "o negocio" de Mariano de Vilar. A Aldea calaba. O drama tiña encomezado xa. E todos lembraban a que le acontecéu á aquela vella de Agrochao, á aquel maeso, á tal veciño, na rede das vinganzas de Andrés. Ninguén esquencía que na somana próisima pubricábase o reparto d econsumos d'aquel ano. E todos sabían o que iba pasar.</p>
                   <p>E foi despois a contribución por utilidades. e foi, ao cabo, a puntilla, a puñalada que romata; a denuncia da escola de María por incodicións do local. E a porta da casa de Mariano pechóu a Escola e pechóu a tenda.</p>
@@ -397,5 +398,43 @@
                   <fw type="sig">Leandro Pita romero</fw>
             </div>
                </body>
+         <back>
+               <listPlace xml:id="mentioned_places">
+                     <place xml:id="place_1">
+                           <placeName type="pref" xml:lang="es">Puerta del Sol</placeName>
+                           <placeName type="alt" xml:lang="gl"></placeName>
+                           <location>
+                                 <placeName key="#place_2">Madrid</placeName>
+                           </location>
+                           <idno type="wikidata">https://www.wikidata.org/wiki/Q427163</idno>
+                     </place>
+                     <place xml:id="place_2">
+                           <placeName type="pref" xml:lang="es">Madrid</placeName>
+                           <placeName type="alt" xml:lang="gl">Madrid</placeName>
+                           <location>
+                                 <geo>40.4165, -3.70256</geo>
+                           </location>
+                           <idno type="wikidata"></idno>
+                     </place>
+               </listPlace>
+               <listPerson xml:id="mentioned_persons">
+                     <person xml:id="person_1">
+                           <persName>Marcus Aurelius</persName>
+                           <idno type="wikidata">https://www.wikidata.org/wiki/Q1430</idno>
+                     </person>
+               </listPerson>
+               <listBibl xml:id="mentioned_bibl">
+                  <bibl xml:id="book_1">
+                        <title>Guía del artesano</title>
+                        <author key="wikidiata-id">
+                              <persName>Esteve Paluzie i Cantalozella</persName>
+                              <idno type="wikidata">https://www.wikidata.org/wiki/Q17300960</idno>
+                        </author>
+                  </bibl>
+                     <bibl xml:id="book_2">
+                           <title></title>
+                     </bibl>
+               </listBibl>
+         </back>
             </text>
          </TEI>

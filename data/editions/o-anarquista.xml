@@ -85,7 +85,7 @@
                <p>e cen figuras mais non catalogadas —porque os sabios non tiveron en conta mais que os clásicos para cosntrjuiren a cencia da Gramática— brincaban las copiosas cartas ao ausente, nas que, baixo unha abondancia de retórica da memorialista, latexaba agazapada e como ruborosa, a grande ternura, o fondo amor, vengoñoso de se non saber espresare,da nai ou da esposa que dictaban a carta, abrumada de verbas coma unha fresca e guapa moza baixo os trapos e o corsé do día do Patrón.</p>
                <p>O alarde literario mais usual, a nota d'estilo d'estas cartas, era o abuso da distinguida proposición gramatical "pois". Todol-os párrafos encomenzaban co'ela. Na chanura sen acougo das ringleiras, o "pois" era o guión, o punto de aparte, o tránsito a outro asunt. "Pois saberás querido fillo, que â vaca púxoselle un tumor nunha perna mesmo á carón do rabo, dispensando a tua cara"... "Pois, querido fillo, temos moitas ganas de te ver que Luis o Tormo díxonos que estabas mui medrado, gracias á Dios"..."Pois inda non che dixen que o Habanero mercoulle á D. Andrés a leira de Chao para facer unha casa"...</p>
                <p>A verba "pois" gozaba en todas estas cartas d'un privilexio que facía palidecer de envexa ao resto do léxico da rica lingua de <rs type="person" ref="#person_6">Cervantes</rs>, que morría no ostracismo, con esceición do "cuyo" e do "saberás" que, salpicados coma o sal na tixola, repitíanse d'abondo nas epístolas que escribía Marica "a escolanta".</p>
-               <p>Tiña marica unha especialidade para estas cartas. Todas elas encomenzaban c'un inevitabre prólego exaitamente igual ao da Gaceta ao dar conta da saúde da Real familia, coa diferencia que vai da Real familia â de Luis do Cebolo, Maripepa de Antr, etcétera. Era un troco de piropos â saúde do destinatario e â dos remitentes, pedindo a interseición</p>
+               <p>Tiña marica unha especialidade para estas cartas. Todas elas encomenzaban c'un inevitabre prólego exaitamente igual ao da <rs type="bibl">Gaceta</rs> ao dar conta da saúde da Real familia, coa diferencia que vai da Real familia â de Luis do Cebolo, Maripepa de Antr, etcétera. Era un troco de piropos â saúde do destinatario e â dos remitentes, pedindo a interseición</p>
          <pb n="8" facs="#o-anarquista-012.jpg"/>
                <p>da divina Providencia para que o satisfaitorio estado de saúde aquen e alén o Oucéano perdurase moitos anos, amén. Esta parte da carta era igual en todas, á non ser no inverno en que tiñan entrada n'este capítulo as minuciosas hisotiras clínicas do ataque de reuma; do punto no costado, do simple catarro ou da grave situación d'unha vaca atacada d'un tumor</p>
                <p>O resto da carta constituía algo así coma un xornal da aldea cô relato de todos os acaecementos: parida d'unha vaca, viaxe d'un veciño, morte d'outro coa descrición minuciosa dos seus derradeiros momentos, funeraes, sitio onde se enterróu, xento que asistiu âs exequias; capítulo de bodas, bailes e todo o que cosntituyen os ecos de soeicedade de San Xián de Lanzós</p>
@@ -458,11 +458,19 @@
                               <idno type="wikidata">https://www.wikidata.org/wiki/Q17300960</idno>
                         </author>
                   </bibl>
-                     <bibl xml:id="journal_1">
-                           <title>Daily Mail</title>
-                           <country>England</country>
-                           <idno type="wikidata">http://wwww.wikidata.org/wiki/Q210534</idno>
-                     </bibl>
+                  <bibl xml:id="journal_1">
+                        <title>Daily Mail</title>
+                        <country>England</country>
+                        <idno type="wikidata">http://wwww.wikidata.org/wiki/Q210534</idno>
+                  </bibl>
+                  <bibl xml:id="journal_2">
+                        <title>Gaceta de Madrid</title>
+                        <publisher>Government of Spain</publisher>
+                        <country>Spain</country>
+                        <idno type="wikidata">https://www.wikidata.org/wiki/Q26208998</idno>
+                        <date type="start">1697</date>
+                        <date type="end">1936</date>
+                  </bibl>
                </listBibl>
          </back>
             </text>

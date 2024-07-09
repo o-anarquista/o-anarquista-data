@@ -80,10 +80,10 @@
                      <fw type="pageNum">5</fw>
          <pb n="6" facs="#o-anarquista-010.jpg"/>
                <p>â "pasantía". Era na aldeao que se di "unha princesa". A úneca faena que facía era a de ter conta do gando nos pastos, que era a labor dos nenos e dos vellos. Os nenos entreteñen as horas mortas do pasto buscando grilos e cantando; os vellos parolando con todos cantos pasan pol-as beiras; Marica cosía e leía na sua <rs type="bibl" ref="#book_1">Guía del artesano</rs></p>
-               <p>Chegóu á adeprender á bordar. Nos altares da igrexuca aleana había moitos primores das suas mans e ela foi quen bordóu aquel corazón c'unhas labaredas que lle regalaron ao bispo nunha visita pastoral as fillas de María. O cura nomeuna segredaria d'aquela confradía. Escribía todal-as cartas dos veciños para os seus parentes de América.</p>
+               <p>Chegóu á adeprender á bordar. Nos altares da igrexuca aleana había moitos primores das suas mans e ela foi quen bordóu aquel corazón c'unhas labaredas que lle regalaron ao bispo nunha visita pastoral as fillas de María. O cura nomeuna segredaria d'aquela confradía. Escribía todal-as cartas dos veciños para os seus parentes de <rs type="place" ref="#place_4">América</rs>.</p>
                <p>Era unha muller disposta. Na opinión de moitos camponeses "unha notabilidade", oíndoa leer de corrido a letra manuscrita e véndoa facer aquela letra delgada e lenta con tantos rasgueos e repenicos.</p>
                <p>Cando foi maor, como a escola da aldea estivese de cote pechada e a maesa ausente, porque o local era inservíbre, puxo unha escola, unha "pasantía", que foi motivo de moitos regalos e de mantenza para a xoven escolanta e d'alguns diñeiros, ao que axuntábanse as ganancias da sua pruma, pois o de escribir cartas aos ausentes tiña xa o seu prezo —unha cadela por priego— e entraba dentro do negocio.</p>
-               <p>Unah semana antes de partir o correo do porto da capital, caían coma moscas os veciños á dictaren as suas cartas para o fillo, o mozo, o marido e migrados.</p>
+               <p>Unah semana antes de partir o correo do <rs type="place" ref="#place_6"></rs>porto da <rs type="place" ref="#place_5"></rs>capital, caían coma moscas os veciños á dictaren as suas cartas para o fillo, o mozo, o marido e migrados.</p>
                <p>As cartas dictábanse en familia. A familia remitente reunida, expoñía a María o que lle quería dicir, mas o que á ela se lle ocurrise. Porque aquelas cartas, aínda dirixidas á persoas da maor intimidade, habían de devar os posíbres ornatos literarios. Eles botaban a crónica de sucesos e María redactaba e escribía. O hiperbaton, o pleonasto, a elipisis</p>
                   <fw type="pageNum">6</fw>
          <pb n="7" facs="o-anarquista-011.jpg"/>
@@ -328,7 +328,7 @@
          <pb n="29" facs="#o-anarquista-033.jpg"/>
                   <sp n="12"><p>—Veicños. ¡Unha bomba! ¡Umha bomba en casa do señor Andrés!</p>
                              <p>—¿Unha bomba?</p>
-                             <p>—Unha bomba! D'esas de Barcelona. Púxoa o señor Mariano. Está ahí, sen conocimento... Houberon morrer todos.</p></sp>
+                             <p>—Unha bomba! D'esas de <rs type="place" ref="#place_3">Barcelona</rs>. Púxoa o señor Mariano. Está ahí, sen conocimento... Houberon morrer todos.</p></sp>
                   <p>O fato que rodeaba a Mariano era imponente. As testas enracimábanse e os ollos abríanse para ver aquel "monstruo" deitado no chan.</p>
                   <p>Mariano puido falar despois d'un instante de escitaci´n. Tremíanlle os beizos. Caera presa da violenta conmoción do estouro.</p>
                   <sp n="12"><p>—Vostede que fixo, ¿Sr. Mariano?</p></sp>
@@ -448,8 +448,50 @@
                            <location>
                                  <geo>40.4165, -3.70256</geo>
                            </location>
-                           <idno type="wikidata">https:/www.wikidata.org/wiki/Q2807/</idno>
+                           <idno type="wikidata">https:/www.wikidata.org/wiki/Q1492/</idno>
                      </place>
+                     <place xml:id="place_3">
+                        <placeName type="pref" xml:lang="es">Barcelona</placeName>
+                        <location>
+                              <geo>41.38879, 2.15899</geo>
+                        </location>
+                        <idno type="wikidata">https:/www.wikidata.org/wiki/Q2807/</idno>
+                     </place>
+                     <place xml:id="place_4">
+                        <placeName type="ref" xml:lang="es">América</placeName>
+                        <placeName type="pref" xml:lang="es">Latino América</placeName>
+                        <idno type="wikidata">https://www.wikidata.org/wiki/Q99773860/</idno>
+                     </place>
+                     <place xml:id="place_5">
+                        <placeName type="pref" xml:lang="gl">A Coruña</placeName>
+                        <placeName type="alt" xml:lang="es">A Coruña</placeName>
+                        <idno type="wikidata">https://www.wikidata.org/wiki/Q8757/</idno>
+                     </place>
+                     <place xml:id="place_6">
+                        <placeName type="pref" xml:lang="gl">Porto da Coruña</placeName>
+                        <placeName type="alt" xml:lang="es">Puerto de A Coruña</placeName>
+                        <location>
+                              <placeName key="place_5">A Coruña</placeName>
+                              <geo>41.38879, 2.15899</geo>
+                        </location>
+                        <idno type="wikidata">https://www.wikidata.org/wiki/Q956068/</idno>
+                     </place>
+                     <place xml:id="place_7">
+                        <placeName type="pref" xml:lang="fr">Paris</placeName>
+                        <location>
+                              <geo>48.85341, 2.3488</geo>
+                        </location>
+                        <idno type="wikidata">https://www.wikidata.org/wiki/Q90/</idno>
+                     </place>
+                     <place xml:id="place_8">
+                        <placeName type="pref" xml:lang="fr">Musée du Louvre</placeName>
+                        <placeName type="alt">Louvre</placeName>
+                        <location>
+                              <geo>48.86102, 2.33587</geo>
+                        </location>
+                        <idno type="wikidata">https://www.wikidata.org/wiki/Q19675/</idno>
+                     </place>
+
                </listPlace>
 
                <listPerson xml:id="mentioned_persons">
@@ -505,6 +547,12 @@
                         <date type="end">1936</date>
                   </bibl>
                </listBibl>
+
+               <listEvent>
+                     <event>
+                           <p></p>
+                     </event>
+               </listEvent>
          </back>
             </text>
          </TEI>

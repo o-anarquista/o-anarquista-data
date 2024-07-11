@@ -553,6 +553,19 @@
                               <geo>42.92278, -8.88622</geo>
                         </location>
                   </place>
+                  <place xml:id="place_20">
+                        <placeName xml:lang="gl">Monte de Soborribas</placeName>
+                  </place>
+                  <place xml:id="place_21">
+                        <placeName xml:lang="gl">Agrochao</placeName>
+                        <location>
+                              <geo>43.662447, -8.04187</geo>
+                        </location>
+                        <idno type="wikidata">https://www.wikidata.org/wiki/Q20544911</idno>
+                  </place>
+                  <place xml:id="place_22">
+                        <placeName xml:lang="gl">Vilamar</placeName>
+                  </place>
             </listPlace>
 
                <listPerson xml:id="mentioned_persons">

@@ -506,14 +506,14 @@
                      <place xml:id="place_11">
                         <placeName xml:lang="gl">Lanzós</placeName>
                         <location>
-                              <geo>43.588709,-8.153331</geo>
+                              <geo>43.588709, -8.153331</geo>
                         </location>
                         <idno type="wikidata">https://www.wikidata.org/wiki/Q12391601</idno>
                      </place>
                      <place xml:id="place_12">
                         <placeName xml:lang="gl">A Chousa</placeName>
                         <location>
-                              <geo>43.600457,-8.147463</geo>
+                              <geo>43.600457, -8.147463</geo>
                         </location>
                         <idno type="wikidata">https://www.wikidata.org/wiki/Q12380437</idno> 
                       </place>
@@ -530,7 +530,7 @@
                   <place xml:id="place_15">
                         <placeName xml:lang="gl">Chao</placeName>
                         <location>
-                              <geo>43.603167,-7.985362</geo>
+                              <geo>43.603167, -7.985362</geo>
                         </location>
                         <idno type="wikidata">https://www.wikidata.org/wiki/Q20541187</idno>
                   </place>
@@ -543,11 +543,16 @@
                   <place xml:id="place_18">
                         <placeName xml:lang="gl">Os Pasos</placeName>
                         <location>
-                              <geo>43.291374,-7.688601</geo>
+                              <geo>43.291374, -7.688601</geo>
                         </location>
                         <idno type="wikidata">https://www.wikidata.org/wiki/Q20547818</idno>
                   </place>
-                  
+                  <place xml:id="place_19">
+                        <placeName xml:lang="gl">A Igrexa</placeName>
+                        <location>
+                              <geo>42.92278, -8.88622</geo>
+                        </location>
+                  </place>
             </listPlace>
 
                <listPerson xml:id="mentioned_persons">

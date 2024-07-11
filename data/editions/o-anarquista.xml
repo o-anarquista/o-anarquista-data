@@ -497,8 +497,38 @@
                         <placeName type="alt" xml:lang="gl">Océano Atlántico</placeName>
                         <idno type="wikidata">https://www.wikidata.org/wiki/Q4816504/</idno>
                      </place>
-
-               </listPlace>
+                     <place xml:id="place_10">
+                        <placeName xml:lang="gl">San Xián de Lanzós</placeName>
+                        <location>
+                              <placeName key="place_11">Lanzós</placeName>
+                        </location>
+                     </place>
+                     <place xml:id="place_11">
+                        <placeName xml:lang="gl">Lanzós</placeName>
+                        <location>
+                              <geo>43.588709,-8.153331</geo>
+                        </location>
+                        <idno type="wikidata">https://www.wikidata.org/wiki/Q12391601/</idno>
+                     </place>
+                     <place xml:id="place_12">
+                        <placeName xml:lang="gl">A Chousa</placeName>
+                        <location>
+                              <geo>43.600457,-8.147463</geo>
+                        </location>
+                        <idno type="wikidata">https://www.wikidata.org/wiki/Q12380437/</idno> 
+                      </place>
+                  <place xml:id="place_13">
+                        <placeName xml:lang="gl">Os Muíños</placeName>
+                  </place>
+                  <place xml:id="place_14">
+                        <placeName xml:lang="gl">Vilar</placeName>
+                        <location>
+                              <geo>42.90198, -8.85745</geo>
+                        </location>
+                        <idno type="wikidata">https://www.wikidata.org/wiki/Q12402078/</idno>
+                  </place>
+                  
+            </listPlace>
 
                <listPerson xml:id="mentioned_persons">
                      <person xml:id="person_1">

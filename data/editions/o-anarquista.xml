@@ -21,7 +21,7 @@
          <pb n="1" facs="#o-anaqista-005.jpg"/>
             <div type="part" n="1">
                <p>Oíronse voces de pelea entre mulleres á outra banda do camiño</p>
-               <sp n="1"><p>—Vouche dar... Eres unha desvergoñada. Cen veces díxenche que non me aveirases a vaca no prado. O prado é meu, non é teu. Se non queres atender pol-as boas, has de atender pol-as malas, ¡mala veciña!</p></sp>
+               <sp n="1" who="#person_7"><p>—Vouche dar... Eres unha desvergoñada. Cen veces díxenche que non me aveirases a vaca no prado. O prado é meu, non é teu. Se non queres atender pol-as boas, has de atender pol-as malas, ¡mala veciña!</p></sp>
                <sp n="2"><p>—Señora Rosa... —oíase outra voz con acento homilde.</p></sp>
                <sp n="1"><p>—Non me veñas con verbas. Boa lercha eres. Xa che dixen e digo que non me trepel-o prado. Se a vaca fuxe ti debes er conta d'ela, que os animais non tiran para onde os non levan. Has de te ver envolta en xusticia, así Dios me salve. Eso é de xentes honradas.</p></sp>
                <sp n="2"><p>—Señora Rosa...</p></sp>
@@ -597,8 +597,12 @@
                         <persName type="pref" xml:lang="es">Miguel de Cervantes</persName>
                         <idno type="wikidata">https://www.wikidata.org/wiki/Q5682</idno>
                      </person>
-
                   </listPerson>
+               <listPerson xml:id="speakers">
+                     <person xml:id="person_7">
+                           <persName>Whatever</persName>
+                     </person>
+               </listPerson>
 
                <listBibl xml:id="mentioned_bibl">
                   <bibl xml:id="book_1">

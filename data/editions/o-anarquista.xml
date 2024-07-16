@@ -22,7 +22,7 @@
             <div type="part" n="1">
                <p>Oíronse voces de pelea entre mulleres á outra banda do camiño</p>
                <sp n="1" who="#person_7"><p>—Vouche dar... Eres unha desvergoñada. Cen veces díxenche que non me aveirases a vaca no prado. O prado é meu, non é teu. Se non queres atender pol-as boas, has de atender pol-as malas, ¡mala veciña!</p></sp>
-               <sp n="2"><p>—Señora Rosa... —oíase outra voz con acento homilde.</p></sp>
+               <sp n="2" who="#person_8"><p>—Señora Rosa... —oíase outra voz con acento homilde.</p></sp>
                <sp n="1"><p>—Non me veñas con verbas. Boa lercha eres. Xa che dixen e digo que non me trepel-o prado. Se a vaca fuxe ti debes er conta d'ela, que os animais non tiran para onde os non levan. Has de te ver envolta en xusticia, así Dios me salve. Eso é de xentes honradas.</p></sp>
                <sp n="2"><p>—Señora Rosa...</p></sp>
                <sp n="1"><p>—Ben tés á quen sair, disgraciada.</p></sp>
@@ -32,14 +32,14 @@
                   <fw type="pageNum">1</fw>
          <pb n="2" facs="#o-anarquista-006.jpg"/>
                <p>taba pol-o camiño cós xornaleiros da sua leira, terciou de lonxe:</p>
-               <sp n="3"><p>—Ei ¡Rosa, Marica! Xa estades rifando?... Andade para a casa que vaise facer de noite</p></sp>
+               <sp n="3" who="#person_9"><p>—Ei ¡Rosa, Marica! Xa estades rifando?... Andade para a casa que vaise facer de noite</p></sp>
                <p>E volvéndose aos da compaña, aclaróu:</p>
                <sp n="3"><p>—Rosa dos Muíños, que estalle votando a plática á "Anarquista".</p></sp>
-               <sp n="4"><p>—Sempre na mesma.</p></sp>
-               <sp n="5"><p>—Non teñen arreglo.</p></sp>
+               <sp n="4" who="#person_10"><p>—Sempre na mesma.</p></sp>
+               <sp n="5" who="#person_11"><p>—Non teñen arreglo.</p></sp>
                <sp n="3"><p>—O non poden ter —sentenciou Antón—. A pobreza non se arregla coa folganza. Se a "Anarquista" non ten onde pastal-a vaca, ¿qué vai facer? Debéramos de lle dar entre todos un cacho de regadío, na mentres senón levanta.</p></sp>
-               <sp n="6"><p>Había que oir o señor Andrés</p></sp>
-               <sp n="7"> <p>Había... —rezongou con malicia unha rapaza</p></sp>
+               <sp n="6" who="#person_12"><p>Había que oir o señor Andrés</p></sp>
+               <sp n="7" who="#person_13"> <p>Había... —rezongou con malicia unha rapaza</p></sp>
                <sp n="3"><p>Bah! —terciou Antón— algunha vez halle de pasar a tema ao señor Andrés</p></sp>
                <p>Estrelecía. Víñase a noite solor da aldea de San Xián de Lanzós. Negreaban os mesmos arvoredos. As casas somellaban afondarse, acollerse mais â terra, agarimadas pol-as sômas. Saían xa os fumes azús dos fogares, ladraban todol-os cas e xa se non ouvía ningunha voz, ningún cantar na lonxanía. A terra encomezaba á durmir.</p>
                <p>Sômente unha esquila tintineaba pol-o camiño abaixo. Era a vaca da "Anarquista" camiñando paseniñamente, diante da súa dona que traía os ollos vermellos e o andar resolto.</p>
@@ -67,7 +67,7 @@
             <div type="part" n="3">
                <p>Mariano de Vilar era un labrego relativamente acomodado. Tiña unhas terras, tiña unhas vacacas, tiña unha filla, Marica. Inda que moitos camponeses o non acreditasen Marinao estimaba mais á Marica que as suas terras e as suas vacacs.</p>
                <p>O cura había advertido á Mariano que a sua filla era moi lista e disposta. Mariano sostivo loitas con Marica-Antona, sua muller, para que a filla deixara os trafegos brutaes da terra pol-a escola, Mariano facíalle ver â sua muller o bon estado económico en que s'atopaban, a circunstancia de ser Marica filla úneca, "o ben que se lle daba a letra de corrido". Era lástema que non adeprendese. Marica-Antona non vía neso a posibilidade de a casar mellor. Non había certamente na aldea en quen escoller. E aos desexos do seu home respondía sempre coa mesma trécola:</p>
-               <sp n="9"><p>¿Quérela facer unha señorita? Ti estás en ti Mariano? Non tolées.</p></sp>
+               <sp n="9" who="#person_14"><p>¿Quérela facer unha señorita? Ti estás en ti Mariano? Non tolées.</p></sp>
                <p>Mais a muller nse non puido opoñer por moito tempo. Un día "púxose un punto". Non se aveu á quedarse na cama á troque de que un estrano lle coidase o gando. O gando era unha preciosidade. Daba groria, tiña razón. Daba pena mirala á ela,</p>
                   <fw type="pageNum">4</fw>
          <pb n="5" facs="#o-anarquista-009.jpg"/>
@@ -75,7 +75,7 @@
             </div>
 
             <div type="part" n="4">
-               <sp n="10"><p>—Non quero que traballes como unha besta. prefiro que adeprendas —díxolle Marinao â sua filla, cando esta facía os imposibres por sustituire â sua nai no traballo.</p></sp>
+               <sp n="10" who="#person_15"><p>—Non quero que traballes como unha besta. prefiro que adeprendas —díxolle Marinao â sua filla, cando esta facía os imposibres por sustituire â sua nai no traballo.</p></sp>
                <p>E Marica deixou a terra para poder ir â escola e</p>
                      <fw type="pageNum">5</fw>
          <pb n="6" facs="#o-anarquista-010.jpg"/>
@@ -123,7 +123,7 @@
                <sp n="09"><p>—Quérela facer señorita? ¿Ti toleas, Mariano?...</p></sp>
                <p>Un feito puxo fin âs vacilacións do vello.</p>
                <p>Unha tarde estaba platicando c'uns amigos cando víu chegar azorado, acorado, descomposto, á Pepe o xornaleiro encarregado de traballar para a casa.</p>
-               <sp n="11"><p>—Señor Mariano! Veña. Torne para casa.</p></sp>
+               <sp n="11" who="#person_23"><p>—Señor Mariano! Veña. Torne para casa.</p></sp>
                <sp n="10"><p>—Qué tes, rapaz?</p></sp>
                <sp n="11"><p>—Torne, señor Mariano, axiña.</p></sp>
                <sp n="10"><p>—A "Benfeita"... a pobre.</p></sp>
@@ -132,7 +132,7 @@
                <p>O vello e mail-o rapaz botaron á andar tan axiña como llo permitian as pernas de Mariano. O rapaz turraba d'el, apremiante. Un suór se lle iba e outro víñalle. Foi dosificándolle a noticia. Ben sabía que d'algus días á esta parte o animal "dispreciaba" a comida. Esta mañá estaba moi tremante. Agora deulle unha cousa moi rara e quedáronlle os ollos así... E o rapaz fixo unha mueca parva, sen deixar de correr. Cando mais corrían mais lle subía a congoxa ao rapaz. Ao cabo, decraróu paladinamente:</p>
                <sp n="11"><p>—Morre, señor Mariano, eu coido que morre. Aló veremos. Será o que Dios queira.</p></sp>
                <p>Cando compareceron na corte, había alí media ducia de veciños. Zombaban coma moscas os agoiros, e las lástimas en coro:</p>
-               <sp n="12"><p>—Morre.</p></sp>
+               <sp n="12" who="#person_24"><p>—Morre.</p></sp>
                    <fw type="pageNum">11</fw>
          <pb n="12" facs="#o-anarquista-016.jpg"/>
                <sp n="12"><p>—Non ten romedio.</p></sp>
@@ -203,7 +203,7 @@
          <pb n="18" facs="#o-anarquista-022.jpg"/>
                <p>ve o dardo según as artes da marmulación perfeita qué é outro motivo apra que San Xián de Lanzós pasase â historia.</p>
                <p>Das idas e voltas de Andrés por frente a tenda nova fixo unha frase Luís do Cebolo:</p>
-               <sp n="13"><p>—Andrés é moito Andrés. Nunca se lle deu tanto por paseare. Parez que ten o pensamento de facer unha casa coma a de Mariano e estalle tomando as medidas.</p></sp>
+               <sp n="13" who="#person_19"><p>—Andrés é moito Andrés. Nunca se lle deu tanto por paseare. Parez que ten o pensamento de facer unha casa coma a de Mariano e estalle tomando as medidas.</p></sp>
                <sp n="12"><p>—Unha casa coma de Mariano, xa hai unha.</p>
                   <p>—¿Cal?</p>
                   <p>—A de Mariano, ¿Para que se quere outra igual?</p>
@@ -217,7 +217,7 @@
          <pb n="19" facs="#o-anarquista-023.jpg"/>              
                <p>ensaia sempre previamente. Era o acto da conciliación. Si fallaba sobreviría e contenda, e daquela aquí de meus concellaes, do meu alcalde, do meu Don Custo da Vila e do meu Diputado á Cortes, que todas á unha moveríanse pol-o seu axente político en Lanzós, Andrés o tendeiro e pedáneo. Mais, como María xa lle tiña dado algún "disprecio" á Andrés, porque lle sorbese a igrexa ou aquel rapaz que voltóu de América para caasar con Rosa dos M uiños, ou porque "lle non cadraba" aquel beizo partido de Andrés, que tampouco era un mozo, o caso é que os tiros d'este non irían pol-a rapaza senon pol-a tenda.</p>
                <p>Das intencios sômente Dios sabe. Dos feitos o primeiro que se soupo é que Andrés, nun dos seus paseos pol-a aaceira da tenda nova, decidiuse á entrar nela e botóu un párrafo con Mariano. Que ao día seguinte a tenda de Mariano estaba pechada. Que na entrevista non tiña pasado nada desagradable senon que Andrés, non coma tendeiro rival —¡eso nunca!— senon coma pedáneo que obedecía órdes do Concello —non hai mas romedio—, comunicáballe á Mariano que se lle esquecera "un detalliño", que era o permiso para abrir a tenda... Certo que naquel curruncho do planeta tan clandestina era a pobre tenda de Mariano coma a non menos modesta de Andrés. Ao que este, con moita homildanza e doces maneiras, dicíalle:</p>
-               <sp n="14"><p>—Ben home. Eu xa ves; fago o que me mandan. Agora, ti verás... Mais esto non é senon trámite, cousa de días</p></sp>
+               <sp n="14" who="#person_18"><p>—Ben home. Eu xa ves; fago o que me mandan. Agora, ti verás... Mais esto non é senon trámite, cousa de días</p></sp>
                <p>Endexamais falóu Andrés a Mariano con mais dozura, nen parecéu nunca condoerse tanto d'unha contrariedade como ao lle comunicar á seu veciño que tiña que pechar... "¿por uns días, hastra que veña o permiso, non sabes?"</p>
                <p>A pesar do tono cariñoso da notificación. Mariano quedou caviloso e María moito máis.</p>
                   <fw type="pageNum">19</fw>
@@ -355,7 +355,7 @@
                   <sp n="12"><p>—Ai, como chora Marica. ¡Pobriña!...</p></sp>
                   <p>O xuez tomáballe declaración á Mariano, que confesouse autor do atentado sen vacilacións. Estaba acobardado, deprimido porque aquelo saíralle tan mal.</p>
                   <p>O xuez preguntoulle:</p>
-                  <sp n="15"><p>—¿Qué moviles induxéronlle á vostede para poñer eses foguetes de dinamita?</p></sp>
+                  <sp n="15" who="#person_25"><p>—¿Qué moviles induxéronlle á vostede para poñer eses foguetes de dinamita?</p></sp>
                   <sp n="10"><p>—Non eran foguetes, señor xuez. Era unha bomba —dicía Mariano, como se defendese a grandeza da fazaña.</p></sp>
                   <p>Non negóu nada. Encomezóu á contar a historia da sua ruína. Foise andinando progresivamente hastra caer nunha convulsión que parecía anunciar a sua morte. Cando recobróu o conocimiento volveuse para a sua filla:</p>
                   <sp n="10"><p>—Morro, gracias a Dios. Non iréi ao cárcel, non. Morro, morro agora, aquí, na miña casa, que aínda</p>
@@ -363,7 +363,7 @@
          <pb n="31" facs="#o-anarquista-035.jpg"/>
                              <p>é miña, á teu rente. Morro hoxe mesmo. Morro agora... é un favor de Dios.</p></sp>
                   <p>Un estertor afogoulle as palabras e borróu os perdons que lle pidía â sua filla. recibíu a Extrema Unción entrando na outra vida. Un gran silenzo despidíao do mundo. O forense deixóu caer a man do vello.</p>
-                  <sp n="16"><p>—Señor xuez: acaba de morrer.</p></sp>
+                  <sp n="16" who="#person_26"><p>—Señor xuez: acaba de morrer.</p></sp>
                   <p>O cura axoenllouse; o escribano erguéu a pruma e miróu por riba das gafas; Marica pousóu a testa no leito.</p>
                   <p>Abaixo no camiño corréu a voz:</p>
                   <sp n="12"><p>—Morréu.</p>
@@ -387,7 +387,7 @@
             <div type="part" n="11">
                   <p>Dende a cancela do campo santo de Lanzós conversa "Xaniño" o enterramortos c'unhas mulleres que sachaban n-unha leira lindante.</p>
                   <sp n="12"><p>—Logo romataches, Xaniño (Xaninño o enterramortos pasaba dos sesenta).</p></sp>
-                  <sp n="17"><p>—Por hoxe, si. Se non morres ti e teño que voltar á coller o sacho.</p></sp>
+                  <sp n="17" who="#person_27"><p>—Por hoxe, si. Se non morres ti e teño que voltar á coller o sacho.</p></sp>
                   <sp n="12"><p>—¡Arrenego! ¿Enredas coa morte?</p></sp>
                   <sp n="17"><p>—Coma os monaguillos coa misa. É o oficio.</p></sp>
                   <sp n="12"><p>—É un oficio descansado. Ti cavas unha hora cada mes, e eu toda a vida. Esa finca tua é boa de traballar.</p></sp>
@@ -597,10 +597,88 @@
                         <persName type="pref" xml:lang="es">Miguel de Cervantes</persName>
                         <idno type="wikidata">https://www.wikidata.org/wiki/Q5682</idno>
                      </person>
+                     <person xml:id="person_16">
+                        <persName>Luis do Tormo</persName>
+                        <birth type="place">>Tormo</birth>
+                     </person>
+                     <person xml:id="person_17">
+                        <persName type="nickname">O Habanero</persName>
+                     </person>
+                     <person xml:id="person_20">
+                        <persName>Maripepa</persName>
+                     </person>
+                     <person xml:id="person_21">
+                        <persName>Luis dos Pasos</persName>
+                        <birth type="place">Os Pasos</birth>
+                     </person>
+                     <person xml:id="person_22">
+                        <persName>Manuel</persName>
+                     </person>
+                     
                   </listPerson>
                <listPerson xml:id="speakers">
                      <person xml:id="person_7">
-                           <persName>Whatever</persName>
+                           <persName>Rosa dos Muíños</persName>
+                           <birth type="place">Os Muiños</birth>
+                     </person>
+                     <person xml:id="person_8">
+                        <persName type="pref">Marica</persName>
+                        <persName type="alt">María</persName>
+                        <persName type="nickname_1">a Anarquista</persName>
+                        <persName type="nickname_2">a Escolanta</persName>
+                     </person>
+                     <person xml:id="person_9">
+                        <persName>Antón da Chousa</persName>
+                        <birth type="place">A Chousa</birth>
+                        <persName type="nickname">Rochefoucauld de San Xián</persName>
+                     </person>
+                     <person xml:id="person_10">
+                        <persName xml:lang="gl">Xornaleiro 1</persName>
+                     </person>
+                     <person xml:id="person_11">
+                        <persName xml:lang="gl">Xornaleiro 2</persName>
+                     </person>
+                     <person xml:id="person_12">
+                        <persName xml:lang="gl">Xornaleiro 3</persName>
+                     </person>
+                     <person xml:id="person_13">
+                        <persName xml:lang="gl">Rapaza</persName>
+                     </person>
+                     <person xml:id="person_14">
+                        <persName type="pref">Marica Antona</persName>
+                        <persName type="alt">Marica-Antona</persName>
+                        <persName type="alt_2">Maria Antona</persName>
+                     </person>
+                     <person xml:id="person_15">
+                        <persName type="pref">Mariano de Vilar</persName>
+                        <persName type="for">Señor Mariano</persName>
+                        <persName type="nickname">O anarquista</persName>
+                        <persName type="desp">Vello do Vilar</persName>
+                        <birth type="place">Vilar</birth>
+                     </person>
+                     <person xml:id="person_18">
+                        <persName>Don Andrés da Igrexa</persName>
+                        <birth type="place">A Igrexa</birth>
+                     </person>
+                     <person xml:id="person_19">
+                        <persName>Luis do Cebolo</persName>
+                        <birth type="place">O Cebolo</birth>
+                     </person>
+                     <person xml:id="person_23">
+                        <persName>Pepe</persName>
+                     </person>
+                     <person xml:id="person24">
+                        <persName>Coro</persName>
+                     </person>
+                     <person xml:id="person_25">
+                        <occupation>Xuez</occupation>
+                     </person>
+                     <person xml:id="person_26">
+                        <occupation>Forense</occupation>
+                     </person>
+                     <person xml:id="person_27">
+                        <persName type="car">Xaniño</persName>
+                        <occupation>Enterramortos</occupation>
                      </person>
                </listPerson>
 

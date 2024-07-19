@@ -609,7 +609,7 @@
                      </person>
                      <person xml:id="person_21">
                         <persName>Luis dos Pasos</persName>
-                        <birth type="place">Os Pasos</birth>
+                        <birth type="place"><placeName key="place_18">Os Pasos</placeName></birth>
                      </person>
                      <person xml:id="person_22">
                         <persName>Manuel</persName>
@@ -619,7 +619,7 @@
                <listPerson xml:id="speakers">
                      <person xml:id="person_7">
                            <persName>Rosa dos Muíños</persName>
-                           <birth type="place">Os Muiños</birth>
+                           <birth type="place"><placeName key="place_13">Os Muíños</placeName></birth>
                      </person>
                      <person xml:id="person_8">
                         <persName type="pref">Marica</persName>
@@ -629,7 +629,7 @@
                      </person>
                      <person xml:id="person_9">
                         <persName>Antón da Chousa</persName>
-                        <birth type="place">A Chousa</birth>
+                        <birth type="place"><placeName key="place_12">A Chousa</placeName></birth>
                         <persName type="nickname">Rochefoucauld de San Xián</persName>
                      </person>
                      <person xml:id="person_10">
@@ -654,15 +654,15 @@
                         <persName type="for">Señor Mariano</persName>
                         <persName type="nickname">O anarquista</persName>
                         <persName type="desp">Vello do Vilar</persName>
-                        <birth type="place">Vilar</birth>
+                        <birth type="place"><placeName key="place_14">Vilar</placeName></birth>
                      </person>
                      <person xml:id="person_18">
                         <persName>Don Andrés da Igrexa</persName>
-                        <birth type="place">A Igrexa</birth>
+                        <birth type="place"><placeName key="place_19">A Igrexa</placeName></birth>
                      </person>
                      <person xml:id="person_19">
                         <persName>Luis do Cebolo</persName>
-                        <birth type="place">O Cebolo</birth>
+                        <birth type="place"><placeName key="16">O Cebolo</placeName></birth>
                      </person>
                      <person xml:id="person_23">
                         <persName>Pepe</persName>

@@ -17,8 +17,71 @@
          
    </teiHeader>
    <text>
+      <front>
+         <div type="cover">
+            <pb n="35" facs="#o-anarquista-001.jpg"/>
+            <p>Lar</p>
+            <p>Leandro Pita Romero</p>
+            <p>Nº2 30CTS</p>
+            <p>Camilo Díaz</p>
+         </div>
+         <div type="cover_back">
+            <pb n="36" facs="#o-anarquista-002.jpg"/>
+            <p>LAR</p>
+            <p>Pubricóu no seu primeiro número</p>
+            <p>A MIÑA MULLER</p>
+            <p>novela orixinal e inédita de</p>
+            <p>Wenceslao Fernández Flórez</p>
+            <p>e pubricará no proismo, o sábado 3 de Xaneiro [de 1924]</p>
+            <p>O PASTOR DE DOÑA SILVIA</p>
+            <p>novela orixinal de</p>
+            <p>Aurelio Ribalta</p>
+            <p>30 cts. exemplar - Suscrición a seis números, 1'60 ptas.</p>
+            <p>Adeministración: Real, 36. — 1º A CRUÑA</p>
+            <p>LAR</p>
+            <p>seguirá pubricando quincenalmente obras de Armando Cotarelo, Ramón Cabanillas, Gonzalo López Abente, Francisco Camba, Aurelio Ribalta, Manuel LUgrís, Francisca Herrera, Luis Amado Carballo, Euxenio Montes, Xosé Posada Curros, Victoriano Taibo, Xeús Fernández e González, COrrea Calderón, Domingo Quiroga, Anxel del Castillo, Xoan Xesús González, Antón Noriega Varela, W. Fernández Florez, E. Carré Aldao, Leandro Pita Romero, Xacobo Casal e outros.</p>
+         </div>
+         <div type="titlePage">
+            <pb n="37" facs="#o-anarquista-003.jpg"/>
+            <div type="box_1">
+               <p>LAR</p>
+               <p>REVISTA QUINCENAL</p>
+            </div>
+            <div type="box_2">
+               <p>DIREITOR: LEANDRO CARRÉ</p>
+               <p>ADEMINISTRADOR: ANXEL CASAL</p>
+            </div>
+            <div type="box_3">
+               <p>ANO I</p>
+               <p>20 de Nadal de 1924</p>
+               <p>N.º2</p>
+            </div>
+            <div type="box_4">
+               <p>O ANARQUISTA</p>
+               <p>NOVELA ORIXINAL E INÉDITA</p>
+               <p>POR</p>
+               <p>Leandro Pita Romero</p>
+               <p>(Portada de CAMILO DÍAZ)</p>
+            </div>
+            <div type="box_5">
+               <p>IMPRENTA MORET</p>
+               <p>Marina, 28</p>
+               <p>A CRUÑA</p>
+            </div>
+         </div>
+         <div type="titlePageback">
+            <pb n="38" facs="#o-anarquista-004.jpg"/>
+            <p>PRECIO DE CADA EXEMPLAR</p>
+            <p>Na república de Cuba</p>
+            <p>Na República de Cuba 10 centavos</p>
+            <p>Na República Arxentina 20 centavos</p>
+            <p>Na Península e África 30 céntimos</p>
+            <p>Suscrición a 6 números, na Península e África 1'60 pesetas</p>
+         </div>
+      </front>
+
       <body>
-         <pb n="1" facs="#o-anaqista-005.jpg"/>
+         <pb n="1" facs="#o-anarquista-005.jpg"/>
             <div type="part" n="1">
                <p>Oíronse voces de pelea entre mulleres á outra banda do camiño.</p>
                <sp n="1" who="#person_7"><p>—Vouche dar... Eres unha desvergoñada. Cen veces díxenche que non me aveirases a vaca no prado. O prado é meu, non é teu. Se non queres atender pol-as boas, has de atender pol-as malas,  mala veciña!</p></sp>
@@ -616,6 +679,22 @@
                      </person>
                      <person xml:id="person_22">
                         <persName>Manuel</persName>
+                     </person>
+                     <person xml:id="person_28">
+                        <persName>Leandro Pita Romero</persName>
+                        <idno type="wikidata">https://www.wikidata.org/wiki/Q3393376</idno>
+                     </person>
+                     <person xml:id="person_29">
+                        <persName>Camilo Díaz</persName>
+                        <idno type="wikidata">https://www.wikidata.org/wiki/Q8256266</idno>
+                     </person>
+                     <person xml:id="person_30">
+                        <persName>Wenceslao Fernández Flórez</persName>
+                        <idno type="wikidata">https://www.wikidata.org/wiki/Q1377191</idno>
+                     </person>
+                     <person xml:id="person_31">
+                        <persName>Aurelio Ribalta</persName>
+                        <idno type="wikidata">https://www.wikidata.org/wiki/Q12383949</idno>
                      </person>
                      
                   </listPerson>

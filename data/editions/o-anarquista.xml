@@ -706,8 +706,76 @@
                      </person>
                      <person xml:id="person_34">
                         <persName>Gonzalo López Abente</persName>
+                        <idno type="wikidata">https://www.wikidata.org/wiki/Q3395050</idno>
                      </person>
-                     
+                     <person xml:id="person_35">
+                        <persName>Francsico Camba</persName>
+                        <idno type="wikidata">https://www.wikidata.org/wiki/Q20535444</idno>
+                     </person>
+                     <person xml:id="person_36">
+                        <persName>Manuel Lugrís</persName>
+                        <idno type="wikidata">https://www.wikidata.org/wiki/Q3327610</idno>
+                     </person>
+                     <person xml:id="person_37">
+                        <persName>Francisca Herrera</persName>
+                        <idno type="wikidata">https://www.wikidata.org/wiki/Q3399032</idno>
+                     </person>
+                     <person xml:id="person_38">
+                        <persName>Luis Amado Carballo</persName>
+                        <idno type="wikidata">https://www.wikidata.org/wiki/Q2761995</idno>
+                     </person>
+                     <person xml:id="person_39">
+                        <persName>Euxenio Montes</persName>
+                        <idno type="wikidata">https://www.wikidata.org/wiki/Q3059615</idno>
+                     </person>
+                     <person xml:id="person_40">
+                        <persName>Xosé Posada Curros</persName>
+                        <idno type="wikidata">https://www.wikidata.org/wiki/Q17413198</idno>
+                     </person>
+                     <person xml:id="person_41">
+                        <persName>Victoriano Taibo</persName>
+                        <idno type="wikidata">https://www.wikidata.org/wiki/Q3393165</idno>
+                     </person>
+                     <person xml:id="person_42">
+                        <persName>Xesús Fernández e González</persName>
+                     </person>
+                     <person xml:id="person_43">
+                        <persName>Correa Calderón</persName>
+                        <idno type="wikidata">https://www.wikidata.org/wiki/Q8846895</idno>
+                     </person>
+                     <person xml:id="person_44">
+                        <persName>Domingo Quiroga</persName>
+                        <idno type="wikidata">https://www.wikidata.org/wiki/Q12387169</idno>
+                     </person>
+                     <person xml:id="person_45">
+                        <persName>Ánxel del Castillo</persName>
+                        <idno type="wikidata">https://www.wikidata.org/wiki/Q9098397</idno>
+                     </person>
+                     <person xml:id="person_46">
+                        <persName>Xoan Xesús González </persName>
+                        <idno type="wikidata">https://www.wikidata.org/wiki/Q2889587</idno>
+                     </person>
+                     <person xml:id="person_47">
+                        <persName>Antón Noriega Varela</persName>
+                        <idno type="wikidata">https://www.wikidata.org/wiki/Q2758970</idno>
+                     </person>
+                     <person xml:id="person_48">
+                        <persName>Euxenio Carré Aldao</persName>
+                        <idno type="wikidata">https://www.wikidata.org/wiki/Q3327621</idno>
+                     </person>
+                     <person xml:id="person_49">
+                        <persName>Xacobo Casal</persName>
+                        <idno type="wikidata">https://www.wikidata.org/wiki/Q20535891</idno>
+                     </person>
+                     <person xml:id="person_50">
+                        <persName>Leandro Carré</persName>
+                        <idno type="wikidata">https://www.wikidata.org/wiki/Q12391680</idno>
+                     </person>
+                     <person xml:id="person_51">
+                        <persName>Ánxel Casal</persName>
+                        <idno type="wikidata">https://www.wikidata.org/wiki/Q3398680</idno>
+                     </person>
+
                   </listPerson>
                <listPerson xml:id="speakers">
                      <person xml:id="person_7">

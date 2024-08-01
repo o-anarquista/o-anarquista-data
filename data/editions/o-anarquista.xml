@@ -696,6 +696,17 @@
                         <persName>Aurelio Ribalta</persName>
                         <idno type="wikidata">https://www.wikidata.org/wiki/Q12383949</idno>
                      </person>
+                     <person xml:id="person_32">
+                        <persName>Armando Cotarelo</persName>
+                        <idno type="wikidata">https://www.wikidata.org/wiki/Q3397925</idno>
+                     </person>
+                     <person xml:id="person_33">
+                        <persName>Ramón Cabanillas</persName>
+                        <idno type="wikidata">https://www.wikidata.org/wiki/Q602214</idno>
+                     </person>
+                     <person xml:id="person_34">
+                        <persName>Gonzalo López Abente</persName>
+                     </person>
                      
                   </listPerson>
                <listPerson xml:id="speakers">

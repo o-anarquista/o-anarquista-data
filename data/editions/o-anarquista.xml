@@ -7,14 +7,26 @@
          <titleStmt>
             <title>O anarquista</title>
          </titleStmt>
-         <publicationStmt>+
-            <publisher>
-               <p>Lar</p>
-            </publisher>
-            <p>Publication Information</p>
+         <publicationStmt>
+            <publisher>Lar</publisher>
+            <pubPlace>A Coruña</pubPlace>
+            <date when="1924">1924</date>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+            <bibl>
+               <title>O anarquista</title>
+               <author>Leandro Pita Romero</author>
+               <date>1924</date>
+               <edition n="1">Princeps</edition>
+               <extent>
+                  <measure unit="pages" quantity="34">34 páginas con portada y contraportada</measure>
+               </extent>
+               <country>Spain</country>
+               <idno type="wikidata">https://www.wikidata.org/wiki/Q12394117</idno>
+               <publisher>Lar</publisher>
+               <pubPlace>A Coruña</pubPlace>
+               <region>Galiza</region>
+            </bibl>
          </sourceDesc>
       </fileDesc>
          
@@ -23,25 +35,25 @@
       <front>
          <div type="cover">
             <pb n="35" facs="#o-anarquista-001.jpg"/>
-            <p>Lar</p>
+            <p><rs type="bibl" ref="#publisher_1">Lar</rs></p>
             <p><rs type="person" ref="#person_28">Leandro Pita Romero</rs></p>
             <p>Nº2 30CTS</p>
             <p><rs type="person" ref="#person_29">Camilo Díaz</rs></p>
          </div>
          <div type="cover_back">
             <pb n="36" facs="#o-anarquista-002.jpg"/>
-            <p>LAR</p>
+            <p><rs type="bibl" ref="#publisher_1">LAR</rs></p>
             <p>Pubricóu no seu primeiro número</p>
             <p>A MIÑA MULLER</p>
             <p>novela orixinal e inédita de</p>
             <p><rs type="person" ref="#person_30">Wenceslao Fernández Flórez</rs></p>
-            <p>e pubricará no proismo, o sábado 3 de Xaneiro [de 1924]</p>
+            <p>e pubricará no prosimo, o sábado 3 de Xaneiro [de 1924]</p>
             <p>O PASTOR DE DOÑA SILVIA</p>
             <p>novela orixinal de</p>
             <p><rs type="person" ref="#person_31">Aurelio Ribalta</rs></p>
             <p>30 cts. exemplar - Suscrición a seis números, 1'60 ptas.</p>
-            <p>Adeministración: Real, 36. — 1º A CRUÑA</p>
-            <p>LAR</p>
+            <p>Adeministración: Real, 36. — 1º <rs type="place" ref="#place_5">A CRUÑA</rs></p>
+            <p><rs type="bibl" ref="#publisher_1">LAR</rs></p>
             <p>seguirá pubricando quincenalmente obras de <rs type="person" ref="#person_32">Armando Cotarelo</rs>, <rs type="person" ref="#pereson_33">Ramón Cabanillas</rs>, <rs type="person" ref="#person_34">Gonzalo López Abente</rs>, <rs type="person" ref="#person_35">Francisco Camba</rs>, <rs type="person" ref="#person_31">Aurelio Ribalta</rs>, <rs type="person" ref="#person_36">Manuel Lugrís</rs>, <rs type="person" ref="#person_37">Francisca Herrera</rs>, <rs type="person" ref="#person_38">Luis Amado Carballo</rs>, <rs type="person" ref="#person_39">Euxenio Montes</rs>, <rs type="person" ref="#person_40">Xosé Posada Curros</rs>, <rs type="person" ref="#person_41">Victoriano Taibo</rs>, <rs type="person" ref="#person_42">Xesús Fernández e González</rs>, <rs type="person" ref="#person_43">Correa Calderón</rs>, <rs type="person" ref="#person_44">Domingo Quiroga</rs>, <rs type="person" ref="#person_45">Anxel del Castillo</rs>, <rs type="person" ref="#person_46">Xoan Xesús González</rs>, <rs type="person" ref="#person_47">Antón Noriega Varela</rs>, <rs type="person" ref="#person_30">W. Fernández Flórez</rs>, <rs type="person" ref="#person_48">E. Carré Aldao</rs>, <rs type="person" ref="#person_28">Leandro Pita Romero</rs>, <rs type="person" ref="#person_49">Xacobo Casal</rs> e outros.</p>
          </div>
          <div type="titlePage">
@@ -156,7 +168,7 @@
                <p>e cen figuras mais non catalogadas —porque os sabios non tiveron en conta mais que os clásicos para construiren a ciencia da Gramática— brincaban las copiosas cartas ao ausente, nas que, baixo unha abondancia de retórica da memorialista, latexaba agazapada e como ruborosa, a grande ternura, o fondo amor, vengoñoso de se non saber espresare,da nai ou da esposa que dictaban a carta, abrumada de verbas coma unha fresca e guapa moza baixo os trapos e o corsé do día do Patrón.</p>
                <p>O alarde literario mais usual, a nota d'estilo d'estas cartas, era o abuso da distinguida proposición gramatical "pois". Todol-os párrafos encomenzaban co'ela. Na chanura sen acougo das ringleiras, o "pois" era o guión, o punto de aparte, o tránsito a outro asunto. "Pois saberás querido fillo, que â vaca púxoselle un tumor nunha perna mesmo á carón do rabo, dispensando a tua cara..." "Pois, querido fillo, temos moitas ganas de te ver que Luis o Tormo díxonos que estabas mui medrado, gracias á dios...". "Pois inda non che dixen que o Habanero mercoulle á don Andrés a leira de Chao para facer unha casa..."</p>
                <p>A verba "pois" gozaba en todas estas cartas d'un privilexio que facía palidecer de envexa ao resto do léxico da rica lingua de <rs type="person" ref="#person_6">Cervantes</rs>, que morría no ostracismo, con esceición do cuyo e do "saberás" que, salpicados coma o sal na tixola, repitíanse d'abondo nas epístolas que escribía Marica "a escolanta".</p>
-               <p>Tiña Marica unha especialidade para estas cartas. Todas elas encomenzaban c'un inevitabre prólego exaitamente igual ao da <rs type="bibl">Gaceta</rs> ao dar conta da saúde da Real Familia, coa diferencia que vai da Real Familia â de Luis do Cebolo, Maripepa de Antón, etcétera. Era un troco de piropos â saúde do destinatario e â dos remitentes, pedindo a interseición</p>
+               <p>Tiña Marica unha especialidade para estas cartas. Todas elas encomenzaban c'un inevitabre prólego exaitamente igual ao da <rs type="bibl" ref="#journal_2">Gaceta</rs> ao dar conta da saúde da Real Familia, coa diferencia que vai da Real Familia â de Luis do Cebolo, Maripepa de Antón, etcétera. Era un troco de piropos â saúde do destinatario e â dos remitentes, pedindo a interseición</p>
                    <fw type="pageNum">7</fw>
          <pb n="8" facs="#o-anarquista-012.jpg"/>
                <p>da Divina Providencia para que o satisfaitorio estado de saúde aquen e alén o <rs type="place" ref="#place_9">Oucéano</rs> perdurase moitos anos, amén. Esta parte da carta era igual en todas, á non ser no inverno en que tiñan entrada n'este capítulo as minuciosas historias clínicas do ataque de reuma; do punto no costado, do simple catarro ou da grave situación d'unha vaca atacada d'un tumor.</p>

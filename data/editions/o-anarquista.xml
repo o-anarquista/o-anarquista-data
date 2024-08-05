@@ -21,9 +21,9 @@
          <div type="cover">
             <pb n="35" facs="#o-anarquista-001.jpg"/>
             <p>Lar</p>
-            <p>Leandro Pita Romero</p>
+            <p><rs type="person" ref="#person_28">Leandro Pita Romero</rs></p>
             <p>Nº2 30CTS</p>
-            <p>Camilo Díaz</p>
+            <p><rs type="person" ref="#person_29">Camilo Díaz</rs></p>
          </div>
          <div type="cover_back">
             <pb n="36" facs="#o-anarquista-002.jpg"/>
@@ -31,15 +31,15 @@
             <p>Pubricóu no seu primeiro número</p>
             <p>A MIÑA MULLER</p>
             <p>novela orixinal e inédita de</p>
-            <p>Wenceslao Fernández Flórez</p>
+            <p><rs type="person" ref="#person_30">Wenceslao Fernández Flórez</rs></p>
             <p>e pubricará no proismo, o sábado 3 de Xaneiro [de 1924]</p>
             <p>O PASTOR DE DOÑA SILVIA</p>
             <p>novela orixinal de</p>
-            <p>Aurelio Ribalta</p>
+            <p><rs type="person" ref="#person_31">Aurelio Ribalta</rs></p>
             <p>30 cts. exemplar - Suscrición a seis números, 1'60 ptas.</p>
             <p>Adeministración: Real, 36. — 1º A CRUÑA</p>
             <p>LAR</p>
-            <p>seguirá pubricando quincenalmente obras de Armando Cotarelo, Ramón Cabanillas, Gonzalo López Abente, Francisco Camba, Aurelio Ribalta, Manuel LUgrís, Francisca Herrera, Luis Amado Carballo, Euxenio Montes, Xosé Posada Curros, Victoriano Taibo, Xeús Fernández e González, COrrea Calderón, Domingo Quiroga, Anxel del Castillo, Xoan Xesús González, Antón Noriega Varela, W. Fernández Florez, E. Carré Aldao, Leandro Pita Romero, Xacobo Casal e outros.</p>
+            <p>seguirá pubricando quincenalmente obras de <rs type="person" ref="#person_32">Armando Cotarelo</rs>, <rs type="person" ref="#pereson_33">Ramón Cabanillas</rs>, <rs type="person" ref="#person_34">Gonzalo López Abente</rs>, <rs type="person" ref="#person_35">Francisco Camba</rs>, <rs type="person" ref="#person_31">Aurelio Ribalta</rs>, <rs type="person" ref="#person_36">Manuel Lugrís</rs>, <rs type="person" ref="#person_37">Francisca Herrera</rs>, <rs type="person" ref="#person_38">Luis Amado Carballo</rs>, <rs type="person" ref="#person_39">Euxenio Montes</rs>, <rs type="person" ref="#person_40">Xosé Posada Curros</rs>, <rs type="person" ref="#person_41">Victoriano Taibo</rs>, <rs type="person" ref="#person_42">Xesús Fernández e González</rs>, <rs type="person" ref="#person_43">Correa Calderón</rs>, <rs type="person" ref="#person_44">Domingo Quiroga</rs>, <rs type="person" ref="#person_45">Anxel del Castillo</rs>, <rs type="person" ref="#person_46">Xoan Xesús González</rs>, <rs type="person" ref="#person_47">Antón Noriega Varela</rs>, <rs type="person" ref="#person_30">W. Fernández Flórez</rs>, <rs type="person" ref="#person_48">E. Carré Aldao</rs>, <rs type="person" ref="#person_28">Leandro Pita Romero</rs>, <rs type="person" ref="#person_49">Xacobo Casal</rs> e outros.</p>
          </div>
          <div type="titlePage">
             <pb n="37" facs="#o-anarquista-003.jpg"/>
@@ -48,8 +48,8 @@
                <p>REVISTA QUINCENAL</p>
             </div>
             <div type="box_2">
-               <p>DIREITOR: LEANDRO CARRÉ</p>
-               <p>ADEMINISTRADOR: ANXEL CASAL</p>
+               <p>DIREITOR: <rs type="person" ref="#person_50">LEANDRO CARRÉ</rs></p>
+               <p>ADEMINISTRADOR: <rs type="person" ref="#person_51">ÁNXEL CASAL</rs></p>
             </div>
             <div type="box_3">
                <p>ANO I</p>
@@ -60,8 +60,8 @@
                <p>O ANARQUISTA</p>
                <p>NOVELA ORIXINAL E INÉDITA</p>
                <p>POR</p>
-               <p>Leandro Pita Romero</p>
-               <p>(Portada de CAMILO DÍAZ)</p>
+               <p><rs type="person" ref="#person_28">Leandro Pita Romero</rs></p>
+               <p>(Portada de <rs type="person" ref="#person_29">CAMILO DÍAZ</rs>)</p>
             </div>
             <div type="box_5">
                <p>IMPRENTA MORET</p>
@@ -494,7 +494,7 @@
                   <p>En San Xián de Lanzós, ao enterramortos que ten sesenta anos, chámanlle Xaniño, ao tendeiro cacique "don Andrés", e a Marica a Anarquista.</p>
                   <p>E á esto que regula a vida dos homes na sociedade, chámanlle xusticia.</p>
                   <p>Con razón ten sona pol-os seus alcumes o poético val de San Xián de Lanzós.</p>
-                  <fw type="sig">Leandro Pita Romero</fw>
+                  <fw type="sig"><rs type="person" ref="#person_28">Leandro Pita Romero</rs></fw>
             </div>
                </body>
 

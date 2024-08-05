@@ -7,7 +7,10 @@
          <titleStmt>
             <title>O anarquista</title>
          </titleStmt>
-         <publicationStmt>
+         <publicationStmt>+
+            <publisher>
+               <p>Lar</p>
+            </publisher>
             <p>Publication Information</p>
          </publicationStmt>
          <sourceDesc>
@@ -863,6 +866,11 @@
                         <idno type="wikidata">https://www.wikidata.org/wiki/Q26208998</idno>
                         <date type="start">1697</date>
                         <date type="end">1936</date>
+                  </bibl>
+                  <bibl xml:id="publisher_1">
+                     <name>Lar</name>
+                     <country>Spain</country>
+                     <idno type="wikidata">https://www.wikidata.org/wiki/Q12391607</idno>
                   </bibl>
                </listBibl>
 

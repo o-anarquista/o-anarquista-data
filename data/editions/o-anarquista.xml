@@ -7,6 +7,19 @@
          <titleStmt>
             <title>O anarquista</title>
          </titleStmt>
+         <editionStmt>
+            <edition>
+               <affiliation>Universidade de Vigo</affiliation>
+               <country>Spain</country>
+               <email>rociohernandezarias@uvigo.gal</email>
+               <lang>galician</lang>
+               <date>2024</date>
+            </edition>
+            <editor>
+               <name>Rocío Hernández Arias</name>
+               <affiliation>Univerisdade de Vigo</affiliation>
+            </editor>
+         </editionStmt>
          <publicationStmt>
             <publisher>Universidade de Vigo</publisher>
             <pubPlace>Vigo</pubPlace>

@@ -693,7 +693,7 @@
                      </person>
                      <person xml:id="person_16">
                         <persName>Luis do Tormo</persName>
-                        <birth type="place">>Tormo</birth>
+                        <birth type="place">Tormo</birth>
                      </person>
                      <person xml:id="person_17">
                         <persName type="nickname">O Habanero</persName>
